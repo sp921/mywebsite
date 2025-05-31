@@ -1,0 +1,26 @@
+:root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+}
+
+.VPDoc {
+  max-width: 100%;
+}
+
+.VPHome {
+  padding: 32px;
+}
+
+.audio-player {
+  display: flex;
+  justify-content: center;
+  margin: 32px 0;
+}
+
+.audio-player audio {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+  padding: 16px;
+} 
