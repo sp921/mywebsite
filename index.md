@@ -32,7 +32,7 @@ This is a VitePress site deployed on Vercel.
 You can start editing this page by modifying `index.md`.
 
 <div class="audio-player">
-  <audio src="/mywebsite/Horizon.mp3" controls>
+  <audio src="/Horizon.mp3" controls>
     您的浏览器不支持 audio 标签。
   </audio>
 </div>
