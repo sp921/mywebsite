@@ -31,3 +31,7 @@ This is a VitePress site deployed on Vercel.
 
 You can start editing this page by modifying `index.md`.
 
+<audio src="/Horizon.mp3" controls autoplay loop>
+  您的浏览器不支持 audio 标签。
+</audio>
+
